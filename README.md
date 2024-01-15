@@ -14,4 +14,4 @@ The code stack of the web application will have three languages used, those bein
 
 ## Prototype Design
 As discussed above, the Figma tool was used to design the prototype of the app, which can be seen below. At this stage, this was for the purposes of understanding what the application could look like rather than than being a strict design to be followed. This allows room for creativity where needed and as the solution develops, requirements and/or concepts may change, and the design can do the same with it.
-![Prototype Design for the web application](SummativePrototype.JPG)
+![Prototype Design for the web application](SummativePrototype.png)
