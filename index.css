@@ -1,0 +1,67 @@
+body {
+    background-color: #012169;
+}
+
+.box1 {
+position: absolute;
+width: 1000px;
+height: 300px;
+left: 184px;
+top: 104px;
+
+background: #D9D9D9;
+border-radius: 25px;
+}
+
+.box2 {
+position: absolute;
+width: 1000px;
+height: 300px;
+left: 184px;
+top: 488px;
+
+background: #C8102E;
+border-radius: 25px;
+}
+
+.box1-text {
+position: absolute;
+width: 548px;
+height: 81px;
+left: 250px;
+top: -50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #000000;
+}
+
+.box2-text {
+position: absolute;
+width: 548px;
+height: 81px;
+left: 250px;
+top: -50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #000000;
+}
+
+.output-dollar {
+    color:#000000;
+}
+
+.output-pound {
+    color:#000000;
+}
