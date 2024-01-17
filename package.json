@@ -1,0 +1,14 @@
+{
+  "name": "sesummative",
+  "version": "1.0.0",
+  "description": "Summative Assignment for the Software Engineering course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
