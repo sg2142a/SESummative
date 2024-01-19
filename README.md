@@ -1,5 +1,21 @@
 # Summative Assignment for the Software Engineering course
 
+## Contents
+- [Introduction to Assignment and Project](https://github.com/sg2142a/SESummative?tab=readme-ov-file#introduction-to-assignment-and-project)
+- [Tools used in project](https://github.com/sg2142a/SESummative?tab=readme-ov-file#tools-used-in-project)
+- [Using Agile methodology to manage the project](https://github.com/sg2142a/SESummative?tab=readme-ov-file#using-agile-methodology-to-manage-the-project)
+- [Initial Kanban board to represent project tasks](https://github.com/sg2142a/SESummative?tab=readme-ov-file#initial-kanban-board-to-represent-project-tasks)
+- [Prototype Design](https://github.com/sg2142a/SESummative?tab=readme-ov-file#prototype-design)
+- [Stakeholder Feedback](https://github.com/sg2142a/SESummative?tab=readme-ov-file#stakeholder-feedback)
+- [Kanban board update](https://github.com/sg2142a/SESummative?tab=readme-ov-file#kanban-board-update)
+- [Codebase - CSS](https://github.com/sg2142a/SESummative?tab=readme-ov-file#codebase---css)
+- [Codebase - HTML](https://github.com/sg2142a/SESummative?tab=readme-ov-file#codebase---html)
+- [Codebase - JavaScript](https://github.com/sg2142a/SESummative?tab=readme-ov-file#codebase---javascript)
+- [Deployed web app and user testing](https://github.com/sg2142a/SESummative?tab=readme-ov-file#deployed-web-app-and-user-testing)
+- [Kanban board update](https://github.com/sg2142a/SESummative?tab=readme-ov-file#kanban-board-update-1)
+- [Accessibility testing of the deployed site](https://github.com/sg2142a/SESummative?tab=readme-ov-file#accessibility-testing-of-the-deployed-site)
+- [Project Evaluation](https://github.com/sg2142a/SESummative?tab=readme-ov-file#project-evaluation)
+
 ## Introduction to Assignment and Project
 This assignment tasks us with the creation of a web app using the HTML, CSS and JavaScript stack. Importantly, the processes undertaken in creating such an app must be demonstrated and the use of project management tools and planning techniques discussed.
 
