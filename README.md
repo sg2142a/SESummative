@@ -12,6 +12,10 @@ For the purposes of prototyping the app, Figma was used, which is an application
 
 The code stack of the web application will have three languages used, those being the aforementioned HTML, CSS and JavaScript. HTML (HyperText Markup Language) is the language that is the foundation of the app, providing the required structure to the content on a website. CSS (Cascading Style Sheets) takes the structure and layout of the site from HTML and styles it, and finally, JavaScript allows for the content to be made interactive. In this scenario, the HTML will define the site's structure, the CSS things such as colour and font, and the JS is what allows for the conversions to be made.
 
+## Initial Kanban board to represent project tasks
+One Agile method that I used to manage this project was a kanban board. This is a tool that presents each task to be completed as a card, that can be placed into one of multiple columns depending on how far through the process it is. In this case, my initial kanban board can be seen below, with four phases- to be done, in progress, in review and completed. Throughout the course of the project, this tool can be used to help me keep tabs on exactly what is going on with my project, allowing me to understand exactly where I am and what I need to complete.
+![Initial kanban board highlighting project tasks](KanbanInitial.JPG)
+
 ## Prototype Design
 As discussed above, the Figma tool was used to design the prototype of the app, which can be seen below. At this stage, this was for the purposes of understanding what the application could look like rather than than being a strict design to be followed. This allows room for creativity where needed and as the solution develops, requirements and/or concepts may change, and the design can do the same with it.
 ![Prototype Design for the web application](SummativePrototype.png)
