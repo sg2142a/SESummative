@@ -24,3 +24,6 @@ One Agile method that I used to manage this project was a kanban board. This is 
 ## Prototype Design
 As discussed above, the Figma tool was used to design the prototype of the app, which can be seen below. At this stage, this was for the purposes of understanding what the application could look like rather than than being a strict design to be followed. This allows room for creativity where needed and as the solution develops, requirements and/or concepts may change, and the design can do the same with it.
 ![Prototype Design for the web application](SummativePrototype.png)
+
+## Stakeholder Feedback
+At this stage, having been using the Agile methodology, I took the opportunity to source feedback from stakeholders on the design of the product. I used a [Google form](https://forms.gle/okG33S6KpxcWyrvK7)https://forms.gle/okG33S6KpxcWyrvK7) to do this, asking stakeholders whether they thought this was a good design and providing the opportunity for any comments they may have wanted to make.
