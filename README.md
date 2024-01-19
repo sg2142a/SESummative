@@ -64,6 +64,9 @@ Another crucial element of building any website or app is accessibility. Testing
 For this site, I used the Google Lighthouse tool to test my site. This tests on three factors- performance, accessibility and best practices, and marks each with a score out of 100. As can be seen below, my site scored perfectly on all three metrics, suggesting that I have created a highly accessible site.
 ![Screenshot of the scores Google Lighthouse gave the deployed site for the accessibility metrics](Lighthouse.JPG)
 
+## Kanban board update
+![Updated kanban board with task status](Kanban3.JPG)
+
 ## Project Evaluation
 Overall, I am very happy with how this project went. HTML, CSS and JavaScript were all completely new to me, as was hosting through a repository on GitHub. Despite this, I believe I was able not just to create a working solution, but also one that could handle poor inputs. This means that the converter can only be used for positive integers, so inputs cannot be negative or anything other than a number to be converted.
 
