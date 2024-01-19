@@ -54,3 +54,9 @@ With the coding completed, I then used the GitHub Pages option to deploy this si
 
 An example of the deployed site can be seen below. In the first box ($ to £), the normal functionality of the converter is demonstrated. In the second (£ to $), the JavaScript code to prevent negative inputs from being submitted. This was a basic user test completed in order to validate that the functionalities of the site were working as expected.
 ![Snapshot of the deployed site in operation](DeployedSite.JPG)
+
+## Accessibility testing of the deployed site
+Another crucial element of building any website or app is accessibility. Testing of accessibility ensures site usability for all potential users and covers a range of disabilities that users may have, such as visual disabilities (eg. colour blindness), physical disabilities and learning difficulties amongst many others. Research has suggested that 15% of the world's population have a disability of some form, meaning that accessibility testing is a vital part of the creation of any website.
+
+For this site, I used the Google Lighthouse tool to test my site. This tests on three factors- performance, accessibility and best practices, and marks each with a score out of 100. As can be seen below, my site scored perfectly on all three metrics, suggesting that I have created a highly accessible site.
+![Screenshot of the scores Google Lighthouse gave the deployed site for the accessibility metrics](Lighthouse.JPG)
