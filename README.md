@@ -26,4 +26,4 @@ As discussed above, the Figma tool was used to design the prototype of the app, 
 ![Prototype Design for the web application](SummativePrototype.png)
 
 ## Stakeholder Feedback
-At this stage, having been using the Agile methodology, I took the opportunity to source feedback from stakeholders on the design of the product. I used a [Google form](https://forms.gle/okG33S6KpxcWyrvK7)https://forms.gle/okG33S6KpxcWyrvK7) to do this, asking stakeholders whether they thought this was a good design and providing the opportunity for any comments they may have wanted to make.
+At this stage, having been using the Agile methodology, I took the opportunity to source feedback from stakeholders on the design of the product. I used a [Google form](https://forms.gle/okG33S6KpxcWyrvK7) to do this, asking stakeholders whether they thought this was a good design and providing the opportunity for any comments they may have wanted to make.
