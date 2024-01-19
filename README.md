@@ -34,3 +34,7 @@ The first stage of the coding completed was taking the Figma design and transfor
 
 Another place where CSS was used in this project was to format the fields created in the HTML forms. When they were initially created, the input box, button to convert and outputs were all in the top left of the site. When they were then added to the same container as the box, they were in the top left of their respective boxes. As a result, I then used CSS formatting to move the boxes and change their size and formatting to make a more appealing output. The code can be seen below.
 ![Sample of CSS code used to format forms and buttons](CSSSnippet2.JPG)
+
+## Codebase - HTML
+To begin with the HTML element of the code, I used a boilerplate through the Emmet extension, which set up my basic structure, in terms of head and body tags and character sets, amongst other things. This meant that when I wanted to start coding, everything was ready to go and just needed to go within the body tags. Within the divider for each box (both of the two converters were set up within their own box), I placed the input field, convert button and output field within their own divider, and used the padding-top variable to place them in a more central location. An example of the divider for one of the boxes can be seen below.
+![Sample of CSS code used to format forms and buttons](HTMLSnippet.JPG)
