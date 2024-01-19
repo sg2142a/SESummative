@@ -48,3 +48,9 @@ The final element towards creating full functionality of my site was the JavaScr
 
 With this done, and the link created between the JavaScript and CSS/HTML, I added events to my buttons to tell my site what to do when a user requested a conversion. This was done through the addEventListener method, and created instructions for the submit event, which in this case, was the user pressing the "convert" button. I did two things in these instructions- the first was the conversion, using the .toFixed method to ensure that all results were rounded to two decimal places in order to maintain consistency as a currency converter. The second was an if statement. The reason for this was discovered through the test-driven development, when I realised that my initial methods meant that negative values were accepted and converted, which obviously was not realistic or correct. Using my if statement, I added that if the input was greater than or equal to zero, then the conversions should be displayed as normal through the innerHTML methods, however, outside of that (using else, inferring any scenario where a negative number is inputted", an error message would be displayed requesting a postiive number. This code can be seen below.
 ![Sample of JS code used to complete the currency conversions](JSSnippet2.JPG)
+
+## Deployed web app
+With the coding completed, I then used the GitHub Pages option to deploy this site at the following link: https://sg2142a.github.io/SESummative/
+
+An example of the deployed site can be seen below. In the first box ($ to £), the normal functionality of the converter is demonstrated. In the second (£ to $), the JavaScript code to prevent negative inputs from being submitted.
+![Snapshot of the deployed site in operation](DeployedSite.JPG)
