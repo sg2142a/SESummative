@@ -60,3 +60,12 @@ Another crucial element of building any website or app is accessibility. Testing
 
 For this site, I used the Google Lighthouse tool to test my site. This tests on three factors- performance, accessibility and best practices, and marks each with a score out of 100. As can be seen below, my site scored perfectly on all three metrics, suggesting that I have created a highly accessible site.
 ![Screenshot of the scores Google Lighthouse gave the deployed site for the accessibility metrics](Lighthouse.JPG)
+
+## Project Evaluation
+Overall, I am very happy with how this project went. HTML, CSS and JavaScript were all completely new to me, as was hosting through a repository on GitHub. Despite this, I believe I was able not just to create a working solution, but also one that could handle poor inputs. This means that the converter can only be used for positive integers, so inputs cannot be negative or anything other than a number to be converted.
+
+Upon reflection, there are definitely areas that I would like to improve upon in future. One of those is the addition of unit testing. I set up the methods on Visual Studio Code through Jest and was able to run a smoke test, but couldn't get further than that. I think that one potential reason for this was because the conversions were nested within the eventListener. If they were created as separate functions that could then be called when required, this may have been more effective. However, I was still able to run three types of testing, in the forms of stakeholder feedback, user testing and accessibility testing, so this still covers a broad range.
+
+Within the Google Lighthouse testing, there were a few small suggestions made within the performance section in order to improve this further. These are minifying the JavaScript (making the file smaller and therefore easier to parse by removing unnecessary characters) and serving static assets with an efficient cache policy (helps to improve the time it takes for the page to load by using the user's web browser to store files that are present within the site. These are considerations I could make next time.
+
+As this project was just me, a lot of the Agile methodology was not really able to be applied in this case. Although I have definitely learnt a lot from using these methods (benefits of incremental work, receiving feedback, using a kanban board), it would be great to apply this even more by running a group Agile project to truly gain an understanding of how effective these methods can be.
