@@ -28,6 +28,9 @@ As discussed above, the Figma tool was used to design the prototype of the app, 
 ## Stakeholder Feedback
 At this stage, having been using the Agile methodology, I took the opportunity to source feedback from stakeholders on the design of the product. I used a [Google form](https://forms.gle/okG33S6KpxcWyrvK7) to do this, asking stakeholders whether they thought this was a good design and providing the opportunity for any comments they may have wanted to make.
 
+## Kanban board update
+![Updated kanban board with task status](Kanban1.JPG)
+
 ## Codebase - CSS
 The first stage of the coding completed was taking the Figma design and transforming it into a viable product. As mentioned above, Figma provides the option to copy sections of your design as CSS, which can be dropped straight into your coding software- I was using Visual Studio Code. An example of the code is provided below, which is setting the background colour of the site and introducing the classes, such as the boxes that will be placed on the site. Positioning, sizing, colouring and round-edge borders are amongst the factors being altered in this example.
 ![Sample of CSS code used to design site](CSSSnippet.JPG)
